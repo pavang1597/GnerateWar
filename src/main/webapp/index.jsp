@@ -10,6 +10,6 @@ String version=resource.getString("version");%>
 "Successfully for the first project using  Jenkins and tomcat"
 </h2>
 <h3> FIRST CICD Pipeline with Jenkins  project is done</h3>
-<h4> Ansible playbook concept with different ansible server and Jenkins is completed  </h4>
+<h4> jenkins master slave concept is complted </h4>
   </body>
 </html>
